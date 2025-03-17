@@ -1,0 +1,16 @@
+.mysection{
+
+}
+.fontstyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hero
+{background-color: rgb(18, 95, 91);
+background-image: url(image/foil2.jpg);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:fixed;
+
+}
